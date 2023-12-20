@@ -27,6 +27,7 @@
 #include "brpc/details/http_parser.h"  // http_parser
 #include "brpc/http_header.h"          // HttpHeader
 #include "brpc/progressive_reader.h"   // ProgressiveReader
+#include <memory>
 
 
 namespace brpc {
